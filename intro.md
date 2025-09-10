@@ -7,3 +7,4 @@ What do you do next?
 - [Wait by the gates](pages/choice-a1-gates.md)  
 - [Board the empty train](pages/choice-b1-train.md)
 - [Check the information desk](pages/choice-c1-desk.md)
+- [Search the locker room](pages/choice-d1-lockerroom.md)
