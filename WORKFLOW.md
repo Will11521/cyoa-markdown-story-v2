@@ -12,8 +12,8 @@ Each stage shows the commits, branches, and pull requests I made, along with scr
 - Added only **intro.md** with the opening story text.  
 - Committed and pushed to `main`.
 
-📸 *Screenshot: screenshots/Screenshot1.png
-📸 *Screenshot: screenshots/Screenshot2.png
+📸 *Screenshot: (screenshots/Screenshot1.png)
+📸 *Screenshot: (screenshots/Screenshot2.png)
 
 ---
 
@@ -24,13 +24,13 @@ Each stage shows the commits, branches, and pull requests I made, along with scr
 - Linked all choices so nothing was empty.  
 - Opened pull requests for each branch.
 
-📸 *Screenshot: screenshots/Screenshot3.png 
-📸 *Screenshot: screenshots/Screenshot4.png
-📸 *Screenshot: screenshots/Screenshot5.png
-📸 *Screenshot: screenshots/Screenshot6.png
-📸 *Screenshot: screenshots/Screenshot7.png
-📸 *Screenshot: screenshots/Screenshot8.png
-📸 *Screenshot: screenshots/Screenshot9.png
+📸 *Screenshot: (screenshots/Screenshot3.png) 
+📸 *Screenshot: (screenshots/Screenshot4.png)
+📸 *Screenshot: (screenshots/Screenshot5.png)
+📸 *Screenshot: (screenshots/Screenshot6.png)
+📸 *Screenshot: (screenshots/Screenshot7.png)
+📸 *Screenshot: (screenshots/Screenshot8.png)
+📸 *Screenshot: (screenshots/Screenshot9.png)
 
 ---
 
@@ -41,8 +41,8 @@ Each stage shows the commits, branches, and pull requests I made, along with scr
 - Deleted merged branches afterwards to keep the repo clean.  
 - Pulled the final changes locally to stay up to date.
 
-📸 *Screenshot: screenshots/Screenshot10.png
-📸 *Screenshot: screenshots/Screenshot11.png
+📸 *Screenshot: (screenshots/Screenshot10.png)
+📸 *Screenshot: (screenshots/Screenshot11.png)
 
 ---
 
@@ -55,8 +55,8 @@ Each stage shows the commits, branches, and pull requests I made, along with scr
 - Also fixed missing links from the desk by adding two new pages (`choice-c2-exit.md`, `choice-c2-back.md`).  
 - Each branch was committed, pushed, and a pull request created.
 
-📸 *Screenshot: screenshots/Screenshot12.png
-📸 *Screenshot: screenshots/Screenshot13.png
+📸 *Screenshot: (screenshots/Screenshot12.png)
+📸 *Screenshot: (screenshots/Screenshot13.png)
 
 
 ---
